@@ -57,8 +57,7 @@ int calculateDayinWeek(int year, int month)
     int k = year % 100;
     int j = year / 100;
     int h = (1 + 13 * (m + 1) / 5 + k + k / 4 +
-             j / 4 + 5 * j) %
-            7;
+             j / 4 + 5 * j) % 7;
     return h;
 }
 
@@ -329,30 +328,31 @@ void printDatesInRow(int year, int month)
             ++date3;
         }
     }
+    if(remainingDays1 > 7 || remainingDays2 > 7 || remainingDays3 > 7)
+    {
+        cout << endl;
+    }
 }
 void printYear(int year)
 {
     cout << "Year " << year << endl;
 
-    cout << "January               February              March" << endl;
+    cout << "January               February              March               " << endl;
     cout << "Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa" << endl;
     printDatesInRow(year, 2);
     cout << endl;
-    cout << endl;
 
-    cout << "April                 May                   June" << endl;
+    cout << "April                 May                   June                " << endl;
     cout << "Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa" << endl;
     printDatesInRow(year, 5);
     cout << endl;
-    cout << endl;
 
-    cout << "July                  August                September" << endl;
+    cout << "July                  August                September           " << endl;
     cout << "Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa" << endl;
     printDatesInRow(year, 8);
     cout << endl;
-    cout << endl;
 
-    cout << "October               November              December" << endl;
+    cout << "October               November              December            " << endl;
     cout << "Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa" << endl;
     printDatesInRow(year, 11);
 }
@@ -377,7 +377,7 @@ void printConsecutiveMonth(int year, int month)
     }
     else
     {
-        int space1 = 17 - sizeof(monthInWord[month - 2]) / sizeof(char);
+        int space1 = 18 - sizeof(monthInWord[month - 2]) / sizeof(char);
         cout << monthInWord[month - 2] << " " << year;
         while (space1)
         {
@@ -521,7 +521,7 @@ void printDateVertical(int vacantDays, int days, bool sunday)
             cout << startDate << " ";
         }
         int followingDays = startDate + 7;
-        while (followingDays < days - 7)
+        while (followingDays <= days - 7)
         {
             if (followingDays < 10)
             {
