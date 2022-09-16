@@ -243,14 +243,15 @@ void convertIntoLines(const char str[], char lines[MAX_LINES][NUM_CHARS_PER_LINE
 void printLeftJustified(const char str[])
 {
     char lines[MAX_LINES][NUM_CHARS_PER_LINE];
-    convertIntoLines(str,lines);
+    convertIntoLines(str, lines);
     for (int i = 0; i < MAX_LINES; i++)
-    {   
-        if(lines[i][0] == '\0') {
+    {
+        if (lines[i][0] == '\0')
+        {
             break;
         }
         for (int j = 0; j < NUM_CHARS_PER_LINE; j++)
-        {   
+        {
             if (lines[i][j] == '\0')
             {
                 cout << endl;
@@ -262,24 +263,27 @@ void printLeftJustified(const char str[])
 }
 
 void printRightJustified(const char str[])
-{   
+{
     char lines[MAX_LINES][NUM_CHARS_PER_LINE];
-    convertIntoLines(str,lines);
+    convertIntoLines(str, lines);
     int count = 0;
     for (int i = 0; i < MAX_LINES; i++)
-    {   
-        if(lines[i][0] == '\0') {
+    {
+        if (lines[i][0] == '\0')
+        {
             break;
         }
-        for (count = 0; lines[i][count] !='\0';++count) {
+        for (count = 0; lines[i][count] != '\0'; ++count)
+        {
             ;
         }
-        while(count < NUM_CHARS_PER_LINE - 1) {
+        while (count < NUM_CHARS_PER_LINE - 1)
+        {
             cout << " ";
             ++count;
         }
         for (int j = 0; j < NUM_CHARS_PER_LINE; j++)
-        {   
+        {
             if (lines[i][j] == '\0')
             {
                 cout << endl;
@@ -288,16 +292,18 @@ void printRightJustified(const char str[])
             cout << lines[i][j];
         }
     }
-    
 }
 
 void printJustified(const char str[])
 {
     char lines[MAX_LINES][NUM_CHARS_PER_LINE];
-    convertIntoLines(str,lines);
-    for (int i = 0; i < MAX_LINES; i++){ 
-        if(lines[i+1][0] == '\0') {
-            for (int j = 0; lines[i][j] != '\0' ; j++){
+    convertIntoLines(str, lines);
+    for (int i = 0; i < MAX_LINES; i++)
+    {
+        if (lines[i + 1][0] == '\0')
+        {
+            for (int j = 0; lines[i][j] != '\0'; j++)
+            {
                 cout << lines[i][j];
             }
             cout << endl;
@@ -305,29 +311,32 @@ void printJustified(const char str[])
         }
         int numOfWord = countWords(lines[i]);
         int numOfChar = countCharacters(lines[i]);
-        int spaceInRow = (NUM_CHARS_PER_LINE - 1 - numOfChar)/(numOfWord - 1);
-        int extraSpace = (NUM_CHARS_PER_LINE - 1 - numOfChar)%(numOfWord - 1);
+        int spaceInRow = (NUM_CHARS_PER_LINE - 1 - numOfChar) / (numOfWord - 1);
+        int extraSpace = (NUM_CHARS_PER_LINE - 1 - numOfChar) % (numOfWord - 1);
         bool flag = true;
         int wordCount = 0;
-        for (int j = 0; j < NUM_CHARS_PER_LINE; j++) {
+        for (int j = 0; j < NUM_CHARS_PER_LINE; j++)
+        {
             if (lines[i][j] == '\0')
             {
                 cout << endl;
                 break;
             }
             if (lines[i][j] == ' ' && flag)
-            {   
+            {
                 ++wordCount;
-                if(wordCount <= extraSpace) {
+                if (wordCount <= extraSpace)
+                {
                     cout << " ";
                 }
-                for(int index = 0; index < spaceInRow; ++index)
+                for (int index = 0; index < spaceInRow; ++index)
                 {
                     cout << " ";
                 }
                 flag = false;
             }
-            if(lines[i][j] != ' ') {
+            if (lines[i][j] != ' ')
+            {
                 flag = true;
             }
             cout << lines[i][j];
@@ -339,15 +348,65 @@ void convertStrToPigLatin(char str[])
 {
     int start = 0;
     int end = 0;
-    while (str[start] != '\0') {
-        while (str[end] != ' ' && str[end] != '\0')
+    int temp[MAX_STRLEN];
+    bool isVowel = false;
+    int count = 0;
+    while (str[start] != '\0')
+    {
+        isVowel = false;
+        while ((str[end] <= 'z' && str[end] >= 'a') || (str[end] <= 'Z' && str[end] >= 'A') || str[end] == '-')
         {
             ++end;
         }
-        if (str[start] == 'a' || str[start] == 'A' || str[start] == 'e' ||str[start] == 'E' || str[start] == 'i' || str[start] == 'I' ||str[start] == 'o' || str[start] == 'O' ||str[start] == 'U' || str[start] == 'u') {
-            
+        if (str[start] == 'a' || str[start] == 'A' || str[start] == 'e' || str[start] == 'E' || str[start] == 'i' || str[start] == 'I' || str[start] == 'o' || str[start] == 'O' || str[start] == 'U' || str[start] == 'u')
+        {
+            isVowel = true;
+        }
+        if (isVowel)
+        {
+            while (start < end)
+            {
+                temp[count++] = str[start++];
+            }
+            temp[count++] = 'y';
+            temp[count++] = 'a';
+            temp[count++] = 'y';
+        }
+        else
+        {
+            int firstVowel = start + 1;
+            while (str[firstVowel] != 'a' && str[firstVowel] != 'e' && str[firstVowel] != 'i' && str[firstVowel] != 'o' && str[firstVowel] != 'u')
+            {
+                ++firstVowel;
+            }
+            for (int i = firstVowel; i != end; i++)
+            {
+                temp[count++] = str[i];
+            }
+            while (start != firstVowel)
+            {
+                temp[count++] = str[start++];
+            }
+            temp[count++] = 'a';
+            temp[count++] = 'y';
+            while (start != end)
+            {
+                ++start;
+            }
+        }
+        while (str[start] == ',' || str[start] == '.' || str[end] == ' ')
+        {
+            temp[count++] = str[start++];
+            ++end;
         }
     }
+    temp[count] = '\0';
+    int index = 0;
+    for (; temp[index] != '\0'; ++index)
+    {
+        str[index] = temp[index];
+    }
+    str[index] = '\0';
 }
 
 // ++++++++++++++++++++++++++++++++++++++++++++++++++++
