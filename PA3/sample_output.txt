@@ -1,0 +1,166 @@
+Enter the number of rows: Enter the number of columns: Enter the number of constraints for row 0 (end with -1): Invalid row constraint, please try again.
+Enter the number of constraints for row 0 (end with -1): Invalid row constraint, please try again.
+Enter the number of constraints for row 0 (end with -1): Invalid row constraint, please try again.
+Enter the number of constraints for row 0 (end with -1): Enter the number of constraints for row 1 (end with -1): Enter the number of constraints for row 2 (end with -1): Enter the number of constraints for row 3 (end with -1): Enter the number of constraints for row 4 (end with -1): Enter the number of constraints for column 0 (end with -1): Invalid column constraint, please try again.
+Enter the number of constraints for column 0 (end with -1): Enter the number of constraints for column 1 (end with -1): Enter the number of constraints for column 2 (end with -1): Enter the number of constraints for column 3 (end with -1): Enter the number of constraints for column 4 (end with -1):          A B C D E
+2 2 |  0 . . . . . 
+2 2 |  1 . . . . . 
+    |  2 . . . . . 
+1 1 |  3 . . . . . 
+  3 |  4 . . . . . 
+         2 2 1 2 2 
+         1 1   1 1 
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice:          A B C D E
+2 2 |  0 . . . . . 
+2 2 |  1 . . . . . 
+    |  2 . . . . . 
+1 1 |  3 . . . . . 
+  3 |  4 . . . . . 
+         2 2 1 2 2 
+         1 1   1 1 
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Enter the cell you want to modify (e.g. A 2): ===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Enter the cell you want to modify (e.g. A 2): ===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Enter the cell you want to modify (e.g. A 2): Invalid row or column. Try again.
+Enter the cell you want to modify (e.g. A 2): Invalid row or column. Try again.
+Enter the cell you want to modify (e.g. A 2): Invalid row or column. Try again.
+Enter the cell you want to modify (e.g. A 2): ===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice:          A B C D E
+2 2 |  0 X . . . X 
+2 2 |  1 . . . . . 
+    |  2 X . . . . 
+1 1 |  3 . . . . . 
+  3 |  4 . . . . . 
+         2 2 1 2 2 
+         1 1   1 1 
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Enter the cell you want to modify (e.g. A 2): ===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Ahh, your solution is incorrect, try again.
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Generating solution:
+         A B C D E
+2 2 |  0 X X . X X 
+2 2 |  1 X X . X X 
+    |  2 . . . . . 
+1 1 |  3 X . . . X 
+  3 |  4 . X X X . 
+         2 2 1 2 2 
+         1 1   1 1 
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Congratulations! Your solution is correct!
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Enter the cell you want to modify (e.g. A 2): ===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Ahh, your solution is incorrect, try again.
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Enter the cell you want to modify (e.g. A 2): ===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Enter the cell you want to modify (e.g. A 2): ===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Ahh, your solution is incorrect, try again.
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Generating solution:
+         A B C D E
+2 2 |  0 X X . X X 
+2 2 |  1 X X . X X 
+    |  2 . . . . . 
+1 1 |  3 X . . . X 
+  3 |  4 . X X X . 
+         2 2 1 2 2 
+         1 1   1 1 
+===== Welcome to Nonogram Game =====
+Please enter your choice:
+Enter 'p' to print the current board.
+Enter 'm' to modify a cell.
+Enter 'c' to check your solution.
+Enter 's' to invoke solver.
+Enter 'q' to quit.
+Your choice: Bye!
