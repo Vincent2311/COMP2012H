@@ -481,14 +481,11 @@ void get_row_perms(int row_idx)
  */
 bool check_rows_valid(int num_complete_rows)
 {   
-    // START YOUR CODES HERE
-    // if(num_complete_rows == num_rows) {
-    //     return check_whole_board_valid();
-    // }
-    
+    // START YOUR CODES HERE    
     int curSet;
     int num;
     bool flag = false;
+    int k; 
     for (int i = 0; i < num_cols; ++i)
     {
         curSet = 0;
@@ -496,30 +493,39 @@ bool check_rows_valid(int num_complete_rows)
         for (int j = 0; j < num_complete_rows; ++j)
         {
             if (board[j][i] == '.') {
-                ++num;
                 flag = true;
             }
-                
             else
             {   
                 if(!flag && j != 0) return false;
-                for (int k = 0; j < num_complete_rows && k < col_constraints[i][curSet]; ++k)
+                k = 0;
+                for (;j < num_complete_rows && k < col_constraints[i][curSet]; ++k,++j)
                 {
                     if (board[j][i] != 'X')
                         return false;
-                    ++j;
-                    ++num;
                 }
-                --j;
                 ++curSet;
                 flag = false;
+                --j;
             }
         }
-        if (num != num_complete_rows)
-            return false;
+        num = num_complete_rows;
+        --curSet;
+        while(k < col_constraints[i][curSet]) {
+            ++k;
+            ++num;
+        }
+        ++curSet;
+        while (curSet < num_col_constraints[i])
+        {
+            num += (col_constraints[i][curSet]+1);
+            ++curSet;
+        }
+        if(num > num_rows +1) return false;
     }
     return true;
     // END YOUR CODES HERE
+
 }
 
 /**
