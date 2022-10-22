@@ -59,7 +59,7 @@ Database::Database(const String &name, int numTables)
     cur->next = nullptr;
 }
 
-Database::Database(const String &filename)
+Database::Database(const String &filename) // TODO:
 {
     currentTable = nullptr;
     const char *ifname = filename.getStr();
@@ -87,12 +87,13 @@ Database::Database(const String &filename)
     ifs.close();
 }
 
-Database::~Database() 
-{   
-    if(!tableHead) return;
+Database::~Database()
+{
+    if (!tableHead)
+        return;
     Table *cur = tableHead->next;
     Table *pre = tableHead;
-    while (!cur)
+    while (cur)
     {
         delete pre;
         pre = cur;
@@ -113,24 +114,31 @@ bool Database::addTable(Table *table)
     }
     else
     {
-        Table *cur = tableHead;
-        Table *nxt = tableHead->next;
-        if (cur->getName() == table->getName())
+        if (!tableHead)
         {
-            cout << "Table with given name already exists in the database.\n";
-            return false;
+            tableHead = table;
         }
-        while (nxt)
+        else
         {
-            if (nxt->getName() == table->getName())
+            Table *cur = tableHead;
+            Table *nxt = tableHead->next;
+            if (cur->getName() == table->getName())
             {
                 cout << "Table with given name already exists in the database.\n";
                 return false;
             }
-            cur = nxt;
-            nxt = nxt->next;
+            while (nxt)
+            {
+                if (nxt->getName() == table->getName())
+                {
+                    cout << "Table with given name already exists in the database.\n";
+                    return false;
+                }
+                cur = nxt;
+                nxt = nxt->next;
+            }
+            cur->next = table;
         }
-        cur->next = table;
         numTables++;
         return true;
     }
@@ -138,24 +146,32 @@ bool Database::addTable(Table *table)
 
 void Database::addTable(const String &name)
 {
-    Table *cur = tableHead;
-    Table *nxt = tableHead->next;
-    if (cur->getName() == name)
+    if (!tableHead)
     {
-        cout << "Table with given name already exists in the database.\n";
-        return;
+        tableHead = new Table(name);
     }
-    while (nxt)
+
+    else
     {
-        if (nxt->getName() == name)
+        Table *cur = tableHead;
+        Table *nxt = tableHead->next;
+        if (cur->getName() == name)
         {
             cout << "Table with given name already exists in the database.\n";
             return;
         }
-        cur = nxt;
-        nxt = nxt->next;
+        while (nxt)
+        {
+            if (nxt->getName() == name)
+            {
+                cout << "Table with given name already exists in the database.\n";
+                return;
+            }
+            cur = nxt;
+            nxt = nxt->next;
+        }
+        cur->next = new Table(name);
     }
-    cur->next = new Table(name);
     numTables++;
     return;
 }
@@ -188,6 +204,19 @@ void Database::listTables() const
 
 void Database::deleteTable(const String &name)
 {
+    if (!tableHead->next)
+    {
+        if (tableHead->getName() == name)
+        {
+            delete tableHead;
+            numTables--;
+            tableHead = nullptr;
+        }
+        else {
+            cout << "No such table exists in the database.\n";
+        }
+        return;
+    }
     Table *cur = tableHead;
     Table *nxt = tableHead->next;
     if (cur->getName() == name)
@@ -261,7 +290,7 @@ void Database::saveDatabase(const String &filename) const
         }
         else
         {
-            ofs << curField->name << " " << curField->type <<endl;
+            ofs << curField->name << " " << curField->type << endl;
         }
 
         // print record
@@ -280,5 +309,116 @@ void Database::saveDatabase(const String &filename) const
 
 void Database::innerJoin(Table *table1, Table *table2)
 {
-    ;
+    if (!table1 || !table2)
+    {
+        cout << "No such table exists in the database.\n";
+        return;
+    }
+    if (table1->getPrimaryKey()->type != table2->getPrimaryKey()->type)
+    {
+        cout << "Type mismatch between target fields.\n";
+        return;
+    }
+    Table *new_table = new Table(table1->getName() + "+" + table2->getName());
+    new_table->addField(0, table1->getPrimaryKey()->name + "+" + table2->getPrimaryKey()->name, table1->getPrimaryKey()->type);
+    String *used_name = new String[table1->getNumCols()];
+
+    int index = 1;
+    int pri_index1;
+    int pri_index2;
+    Field *cur_field = table1->getFieldHead();
+    for (int i = 0; i < table1->getNumCols(); i++)
+    {
+        if (cur_field != table1->getPrimaryKey())
+        {
+            new_table->addField(index, cur_field->name, cur_field->type);
+            used_name[index - 1] = cur_field->name;
+            index++;
+        }
+        else
+        {
+            pri_index1 = i;
+        }
+        cur_field = cur_field->next;
+    }
+
+    bool flag = false;
+    int index2 = index;
+    cur_field = table2->getFieldHead();
+    for (int i = 0; i < table2->getNumCols(); i++)
+    {
+        if (cur_field != table2->getPrimaryKey())
+        {
+            flag = false;
+            for (int j = 0; j < index - 1; j++)
+            {
+                if (cur_field->name == used_name[j])
+                {
+                    flag = true;
+                    break;
+                }
+            }
+            if (flag)
+            {
+                new_table->addField(index2, cur_field->name + "(T2)", cur_field->type);
+            }
+            else
+            {
+                new_table->addField(index2, cur_field->name, cur_field->type);
+            }
+            index2++;
+        }
+        else
+        {
+            pri_index2 = i;
+        }
+        cur_field = cur_field->next;
+    }
+    delete[] used_name;
+
+    int *t1_row = new int[table1->getNumCols()];
+    int *t2_row = new int[table1->getNumCols()];
+    int count = 0;
+    for (int i = 0; i < table1->getNumRows(); i++)
+    {
+        for (int j = 0; j < table2->getNumRows(); j++)
+        {
+            if ((*table1)[pri_index1][i] == (*table2)[pri_index2][j])
+            {
+                t1_row[count] = i;
+                t2_row[count] = j;
+                count++;
+                break;
+            }
+        }
+    }
+    String *record = new String[table1->getNumCols() + table2->getNumCols()];
+    for (int i = 0; i < count; i++)
+    {
+        index = 1;
+        record[0] = (*table1)[pri_index1][t1_row[i]];
+        for (int j = 0; j < table1->getNumCols(); j++)
+        {
+            if (j != pri_index1)
+            {
+                record[index] = (*table1)[j][t1_row[i]];
+                index++;
+            }
+        }
+        index2 = index;
+        for (int k = 0; k < table2->getNumCols(); k++)
+        {
+            if (k != pri_index2)
+            {
+                record[index2] = (*table2)[k][t2_row[i]];
+                index2++;
+            }
+        }
+        new_table->addRecord(i, record);
+    }
+
+    delete[] t1_row;
+    delete[] t2_row;
+    delete[] record;
+    this->addTable(new_table);
 }

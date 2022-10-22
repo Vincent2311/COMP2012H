@@ -211,6 +211,7 @@ void Table::addRecord(int index, String *record)
     while (cur != primaryKey)
     {
         colIndex++;
+        cur = cur->next;
     }
     if (record[colIndex] == "")
     {
@@ -312,11 +313,16 @@ void Table::addField(int index, const String &name, TYPE type)
         }
     }
 
-    if (index == 0)
+    if (!fieldHead)
+    {
+        newFieled->next = nullptr;
+        fieldHead = newFieled;
+        primaryKey = fieldHead;
+    }
+    else if (index == 0)
     {
         newFieled->next = fieldHead;
         fieldHead = newFieled;
-        primaryKey = newFieled;
     }
 
     else
@@ -414,12 +420,13 @@ void Table::setPrimaryKey(const String &name)
         return;
     }
 
-    String list[numRows];
+    String *list = new String[numRows];
     for (int i = 0; i < numRows; i++)
     {
         if (cur->column[i] == "")
         {
             cout << "Cannot set field with empty data as primary key.\n";
+            delete[] list;
             return;
         }
         for (int j = 0; j < i; j++)
@@ -427,17 +434,20 @@ void Table::setPrimaryKey(const String &name)
             if (cur->column[i] == cur->column[j])
             {
                 cout << "Cannot set field with duplicate elements as primary key.\n";
+                delete[] list;
                 return;
             }
         }
         list[i] = cur->column[i];
     }
     primaryKey = cur;
+    delete[] list;
 }
 
 void Table::setColumnIndex(int index, const String &target)
 {
     Field *cur = fieldHead;
+    int count = 0;
     while (cur)
     {
         if (cur->name == target)
@@ -445,6 +455,7 @@ void Table::setColumnIndex(int index, const String &target)
             break;
         }
         cur = cur->next;
+        count++;
     }
     if (!cur)
     {
@@ -459,18 +470,18 @@ void Table::setColumnIndex(int index, const String &target)
 
     if (index == cur - fieldHead)
         return;
-    if (cur == fieldHead) //problem
+    if (cur == fieldHead)
     {
         fieldHead = cur->next;
         Field *tar = fieldHead;
-        for (int i = 0; i < index; i++)
+        for (int i = 1; i < index; i++)
         {
             tar = tar->next;
         }
         cur->next = tar->next;
         tar->next = cur;
     }
-    else if (index == 0) // problem
+    else if (index == 0)
     {
         Field *pre = fieldHead;
         while (pre->next != cur)
@@ -478,10 +489,10 @@ void Table::setColumnIndex(int index, const String &target)
             pre = pre->next;
         }
         pre->next = cur->next;
-        cur->next = fieldHead->next;
+        cur->next = fieldHead;
         fieldHead = cur;
     }
-    else // Problem
+    else if (index < count)
     {
         Field *pre = fieldHead;
         while (pre->next != cur)
@@ -501,6 +512,22 @@ void Table::setColumnIndex(int index, const String &target)
         pre->next = cur->next;
         cur->next = tar;
         tarPre->next = cur;
+    }
+    else
+    {
+        Field *pre = fieldHead;
+        while (pre->next != cur)
+        {
+            pre = pre->next;
+        }
+        Field *tar = fieldHead;
+        for (int i = 0; i < index; i++)
+        {
+            tar = tar->next;
+        }
+        pre->next = cur->next;
+        cur->next = tar->next;
+        tar->next = cur;
     }
 }
 
