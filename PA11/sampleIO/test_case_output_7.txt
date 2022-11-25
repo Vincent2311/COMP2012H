@@ -1,0 +1,3484 @@
+Enter the following (without '): 
+'list' to obtain a list of dictionaries
+'create' to create a new dictionary
+'delete' to delete a dictionary
+'manipulate' manipulate a dictionary
+'merge' merge two dictionaries
+'filter' to filter a dictionary
+'use' to use a dictionary
+'help' to list all commands
+'end' to end program
+Enter the name for dictionary:
+Dictionary created: test
+Enter the name for dictionary:
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'dad' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'eager' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'aperiodic' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'label' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'sock' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'boring' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'duct' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'climb' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'game' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'camp' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'ease' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'book' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'clay' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'umbrella' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'dust' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'wait' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'clog' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'apply' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'yesterday' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'capsule' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'zoo' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'green' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'capital' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'obey' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'machine' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'claw' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'abstain' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'absolute' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'house' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'dusk' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'pack' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'born' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'vacant' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'absolve' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'epic' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'feasible' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'bathe' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'dance' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'absurd' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'dart' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'cloth' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'number' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'quit' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'abstract' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'keep' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'race' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'ban' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'ice' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'duck' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'cat' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'apple' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'apex' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'bat' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'think' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'fabric' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'jade' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'boot' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'xylophone' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Enter word to be added / updated:
+Enter type of word:
+Enter meaning of word:
+Updated the word 'episode' to the dictionary
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Total number of children of test (excluding root): 222
+a ()  [1]
+ab ()  [2]
+abs ()  [3]
+abso ()  [4]
+absol ()  [5]
+absolu ()  [6]
+absolut ()  [7]
+absolute (adjective) Free from imperfection; complete; perfect: [8]
+absolv ()  [9]
+absolve (verb) To free from guilt or blame or their consequences. [10]
+abst ()  [11]
+absta ()  [12]
+abstai ()  [13]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [14]
+abstr ()  [15]
+abstra ()  [16]
+abstrac ()  [17]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [18]
+absu ()  [19]
+absur ()  [20]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [21]
+ap ()  [22]
+ape ()  [23]
+aper ()  [24]
+aperi ()  [25]
+aperio ()  [26]
+aperiod ()  [27]
+aperiodi ()  [28]
+aperiodic (adjective) Not periodic; irregular. [29]
+apex (noun) The tip, point, or vertex; summit. [30]
+app ()  [31]
+appl ()  [32]
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [33]
+apply (verb) To make use of as relevant, suitable, or pertinent. [34]
+b ()  [35]
+ba ()  [36]
+ban (verb) To prohibit, forbid, or bar; interdict. [37]
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [38]
+bath ()  [39]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [40]
+bo ()  [41]
+boo ()  [42]
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [43]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [44]
+bor ()  [45]
+bori ()  [46]
+borin ()  [47]
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [48]
+born (adjective) Brought forth by birth. [49]
+c ()  [50]
+ca ()  [51]
+cam ()  [52]
+camp (verb) To live temporarily in or as if in a camp or outdoors, usually for recreation (often followed by out). [53]
+cap ()  [54]
+capi ()  [55]
+capit ()  [56]
+capita ()  [57]
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [58]
+caps ()  [59]
+capsu ()  [60]
+capsul ()  [61]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [62]
+cat (noun) A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties. [63]
+cl ()  [64]
+cla ()  [65]
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [66]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [67]
+cli ()  [68]
+clim ()  [69]
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [70]
+clo ()  [71]
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [72]
+clot ()  [73]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [74]
+d ()  [75]
+da ()  [76]
+dad (noun) A person's father or one's father. [77]
+dan ()  [78]
+danc ()  [79]
+dance (verb) To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music. [80]
+dar ()  [81]
+dart (noun) A small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon. [82]
+du ()  [83]
+duc ()  [84]
+duck (noun) Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body. [85]
+duct (noun) Any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed. [86]
+dus ()  [87]
+dusk (noun) The state or period of partial darkness between day and night; the dark part of twilight. [88]
+dust (noun) Earth or other matter in fine, dry particles. [89]
+e ()  [90]
+ea ()  [91]
+eag ()  [92]
+eage ()  [93]
+eager (adjective) Keen or ardent in desire or feeling; impatiently longing. [94]
+eas ()  [95]
+ease (noun) Freedom from labor, pain, or physical annoyance; tranquil rest; comfort. [96]
+ep ()  [97]
+epi ()  [98]
+epic (adjective) Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style. [99]
+epis ()  [100]
+episo ()  [101]
+episod ()  [102]
+episode (noun) An incident in the course of a series of events, in a person's life or experience, etc. [103]
+f ()  [104]
+fa ()  [105]
+fab ()  [106]
+fabr ()  [107]
+fabri ()  [108]
+fabric (noun) A cloth made by weaving, knitting, or felting fibers. [109]
+fe ()  [110]
+fea ()  [111]
+feas ()  [112]
+feasi ()  [113]
+feasib ()  [114]
+feasibl ()  [115]
+feasible (adjective) Capable of being done, effected, or accomplished. [116]
+g ()  [117]
+ga ()  [118]
+gam ()  [119]
+game (noun) An amusement or pastime. [120]
+gr ()  [121]
+gre ()  [122]
+gree ()  [123]
+green (adjective) Of the color of growing foliage, between yellow and blue in the spectrum. [124]
+h ()  [125]
+ho ()  [126]
+hou ()  [127]
+hous ()  [128]
+house (noun) A building in which people live; residence for human beings. [129]
+i ()  [130]
+ic ()  [131]
+ice (noun) The solid form of water, produced by freezing; frozen water. [132]
+j ()  [133]
+ja ()  [134]
+jad ()  [135]
+jade (noun) Either of two minerals, jadeite or nephrite, sometimes green, highly esteemed as an ornamental stone for carvings, jewelry, etc. [136]
+k ()  [137]
+ke ()  [138]
+kee ()  [139]
+keep (verb) To hold or retain in one's possession; hold as one's own. [140]
+l ()  [141]
+la ()  [142]
+lab ()  [143]
+labe ()  [144]
+label (noun) A slip of paper, cloth, or other material, marked or inscribed, for attachment to something to indicate its manufacturer, nature, ownership, destination, etc. [145]
+m ()  [146]
+ma ()  [147]
+mac ()  [148]
+mach ()  [149]
+machi ()  [150]
+machin ()  [151]
+machine (noun) An apparatus consisting of interrelated parts with separate functions, used in the performance of some kind of work. [152]
+n ()  [153]
+nu ()  [154]
+num ()  [155]
+numb ()  [156]
+numbe ()  [157]
+number (noun) The sum, total, count, or aggregate of a collection of units, or the like. [158]
+o ()  [159]
+ob ()  [160]
+obe ()  [161]
+obey (verb) To comply with or follow the commands, restrictions, wishes, or instructions of. [162]
+p ()  [163]
+pa ()  [164]
+pac ()  [165]
+pack (verb) To form into a group or compact mass. [166]
+q ()  [167]
+qu ()  [168]
+qui ()  [169]
+quit (noun) To stop, cease, or discontinue. [170]
+r ()  [171]
+ra ()  [172]
+rac ()  [173]
+race (noun) A contest of speed, as in running, riding, driving, or sailing. [174]
+s ()  [175]
+so ()  [176]
+soc ()  [177]
+sock (noun) A short stocking usually reaching to the calf or just above the ankle. [178]
+t ()  [179]
+th ()  [180]
+thi ()  [181]
+thin ()  [182]
+think (verb) To have a conscious mind, to some extent of reasoning, remembering experiences, making rational decisions, etc. [183]
+u ()  [184]
+um ()  [185]
+umb ()  [186]
+umbr ()  [187]
+umbre ()  [188]
+umbrel ()  [189]
+umbrell ()  [190]
+umbrella (noun) A light, small, portable, usually circular cover for protection from rain or sun, consisting of a fabric held on a collapsible frame of thin ribs radiating from the top of a carrying stick or handle. [191]
+v ()  [192]
+va ()  [193]
+vac ()  [194]
+vaca ()  [195]
+vacan ()  [196]
+vacant (adjective) Having no contents; empty; void. [197]
+w ()  [198]
+wa ()  [199]
+wai ()  [200]
+wait (verb) To remain inactive or in a state of repose, as until something expected happens. [201]
+x ()  [202]
+xy ()  [203]
+xyl ()  [204]
+xylo ()  [205]
+xylop ()  [206]
+xyloph ()  [207]
+xylopho ()  [208]
+xylophon ()  [209]
+xylophone (noun) A musical instrument consisting of a graduated series of wooden bars, usually sounded by striking with small wooden hammers. [210]
+y ()  [211]
+ye ()  [212]
+yes ()  [213]
+yest ()  [214]
+yeste ()  [215]
+yester ()  [216]
+yesterd ()  [217]
+yesterda ()  [218]
+yesterday (noun) The day preceding this day. [219]
+z ()  [220]
+zo ()  [221]
+zoo (noun) A parklike area in which live animals are kept in cages or large enclosures for public exhibition. [222]
+
+
+
+
+Enter the following:
+'1' to print the tree structure of the dictionary.
+'2' to print all words of the dictionary.
+'3' to add a key to the dictionary.
+'4' to remove an entry from the dictionary.
+'5' to exit this subroutine.
+Going back to main routine:
+
+Enter the name for dictionary:
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+absolve (verb) To free from guilt or blame or their consequences. [2]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [3]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [4]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [5]
+aperiodic (adjective) Not periodic; irregular. [6]
+apex (noun) The tip, point, or vertex; summit. [7]
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [8]
+apply (verb) To make use of as relevant, suitable, or pertinent. [9]
+ban (verb) To prohibit, forbid, or bar; interdict. [10]
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [11]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [12]
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [13]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [14]
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [15]
+born (adjective) Brought forth by birth. [16]
+camp (verb) To live temporarily in or as if in a camp or outdoors, usually for recreation (often followed by out). [17]
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [18]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [19]
+cat (noun) A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties. [20]
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [21]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [22]
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [23]
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [24]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [25]
+dad (noun) A person's father or one's father. [26]
+dance (verb) To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music. [27]
+dart (noun) A small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon. [28]
+duck (noun) Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body. [29]
+duct (noun) Any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed. [30]
+dusk (noun) The state or period of partial darkness between day and night; the dark part of twilight. [31]
+dust (noun) Earth or other matter in fine, dry particles. [32]
+eager (adjective) Keen or ardent in desire or feeling; impatiently longing. [33]
+ease (noun) Freedom from labor, pain, or physical annoyance; tranquil rest; comfort. [34]
+epic (adjective) Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style. [35]
+episode (noun) An incident in the course of a series of events, in a person's life or experience, etc. [36]
+fabric (noun) A cloth made by weaving, knitting, or felting fibers. [37]
+feasible (adjective) Capable of being done, effected, or accomplished. [38]
+game (noun) An amusement or pastime. [39]
+green (adjective) Of the color of growing foliage, between yellow and blue in the spectrum. [40]
+house (noun) A building in which people live; residence for human beings. [41]
+ice (noun) The solid form of water, produced by freezing; frozen water. [42]
+jade (noun) Either of two minerals, jadeite or nephrite, sometimes green, highly esteemed as an ornamental stone for carvings, jewelry, etc. [43]
+keep (verb) To hold or retain in one's possession; hold as one's own. [44]
+label (noun) A slip of paper, cloth, or other material, marked or inscribed, for attachment to something to indicate its manufacturer, nature, ownership, destination, etc. [45]
+machine (noun) An apparatus consisting of interrelated parts with separate functions, used in the performance of some kind of work. [46]
+number (noun) The sum, total, count, or aggregate of a collection of units, or the like. [47]
+obey (verb) To comply with or follow the commands, restrictions, wishes, or instructions of. [48]
+pack (verb) To form into a group or compact mass. [49]
+quit (noun) To stop, cease, or discontinue. [50]
+race (noun) A contest of speed, as in running, riding, driving, or sailing. [51]
+sock (noun) A short stocking usually reaching to the calf or just above the ankle. [52]
+think (verb) To have a conscious mind, to some extent of reasoning, remembering experiences, making rational decisions, etc. [53]
+umbrella (noun) A light, small, portable, usually circular cover for protection from rain or sun, consisting of a fabric held on a collapsible frame of thin ribs radiating from the top of a carrying stick or handle. [54]
+vacant (adjective) Having no contents; empty; void. [55]
+wait (verb) To remain inactive or in a state of repose, as until something expected happens. [56]
+xylophone (noun) A musical instrument consisting of a graduated series of wooden bars, usually sounded by striking with small wooden hammers. [57]
+yesterday (noun) The day preceding this day. [58]
+zoo (noun) A parklike area in which live animals are kept in cages or large enclosures for public exhibition. [59]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter word type filter (directly press enter for empty filter):
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apex (noun) The tip, point, or vertex; summit. [1]
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [2]
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [3]
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [4]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [5]
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [6]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [7]
+cat (noun) A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties. [8]
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [9]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [10]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [11]
+dad (noun) A person's father or one's father. [12]
+dart (noun) A small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon. [13]
+duck (noun) Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body. [14]
+duct (noun) Any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed. [15]
+dusk (noun) The state or period of partial darkness between day and night; the dark part of twilight. [16]
+dust (noun) Earth or other matter in fine, dry particles. [17]
+ease (noun) Freedom from labor, pain, or physical annoyance; tranquil rest; comfort. [18]
+episode (noun) An incident in the course of a series of events, in a person's life or experience, etc. [19]
+fabric (noun) A cloth made by weaving, knitting, or felting fibers. [20]
+game (noun) An amusement or pastime. [21]
+house (noun) A building in which people live; residence for human beings. [22]
+ice (noun) The solid form of water, produced by freezing; frozen water. [23]
+jade (noun) Either of two minerals, jadeite or nephrite, sometimes green, highly esteemed as an ornamental stone for carvings, jewelry, etc. [24]
+label (noun) A slip of paper, cloth, or other material, marked or inscribed, for attachment to something to indicate its manufacturer, nature, ownership, destination, etc. [25]
+machine (noun) An apparatus consisting of interrelated parts with separate functions, used in the performance of some kind of work. [26]
+number (noun) The sum, total, count, or aggregate of a collection of units, or the like. [27]
+quit (noun) To stop, cease, or discontinue. [28]
+race (noun) A contest of speed, as in running, riding, driving, or sailing. [29]
+sock (noun) A short stocking usually reaching to the calf or just above the ankle. [30]
+umbrella (noun) A light, small, portable, usually circular cover for protection from rain or sun, consisting of a fabric held on a collapsible frame of thin ribs radiating from the top of a carrying stick or handle. [31]
+xylophone (noun) A musical instrument consisting of a graduated series of wooden bars, usually sounded by striking with small wooden hammers. [32]
+yesterday (noun) The day preceding this day. [33]
+zoo (noun) A parklike area in which live animals are kept in cages or large enclosures for public exhibition. [34]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter word type filter (directly press enter for empty filter):
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolve (verb) To free from guilt or blame or their consequences. [1]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [2]
+apply (verb) To make use of as relevant, suitable, or pertinent. [3]
+ban (verb) To prohibit, forbid, or bar; interdict. [4]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [5]
+camp (verb) To live temporarily in or as if in a camp or outdoors, usually for recreation (often followed by out). [6]
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [7]
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [8]
+dance (verb) To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music. [9]
+keep (verb) To hold or retain in one's possession; hold as one's own. [10]
+obey (verb) To comply with or follow the commands, restrictions, wishes, or instructions of. [11]
+pack (verb) To form into a group or compact mass. [12]
+think (verb) To have a conscious mind, to some extent of reasoning, remembering experiences, making rational decisions, etc. [13]
+wait (verb) To remain inactive or in a state of repose, as until something expected happens. [14]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter word type filter (directly press enter for empty filter):
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [2]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [3]
+aperiodic (adjective) Not periodic; irregular. [4]
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [5]
+born (adjective) Brought forth by birth. [6]
+eager (adjective) Keen or ardent in desire or feeling; impatiently longing. [7]
+epic (adjective) Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style. [8]
+feasible (adjective) Capable of being done, effected, or accomplished. [9]
+green (adjective) Of the color of growing foliage, between yellow and blue in the spectrum. [10]
+vacant (adjective) Having no contents; empty; void. [11]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter word type filter (directly press enter for empty filter):
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'number' found.
+Type: noun
+Meaning: The sum, total, count, or aggregate of a collection of units, or the like.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'epic' found.
+Type: adjective
+Meaning: Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'xylophone' found.
+Type: noun
+Meaning: A musical instrument consisting of a graduated series of wooden bars, usually sounded by striking with small wooden hammers.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'abstain' found.
+Type: verb
+Meaning: to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from).
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'ease' found.
+Type: noun
+Meaning: Freedom from labor, pain, or physical annoyance; tranquil rest; comfort.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'cat' found.
+Type: noun
+Meaning: A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'game' found.
+Type: noun
+Meaning: An amusement or pastime.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'eager' found.
+Type: adjective
+Meaning: Keen or ardent in desire or feeling; impatiently longing.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'absurd' found.
+Type: adjective
+Meaning: Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+Word 'fabric' found.
+Type: noun
+Meaning: A cloth made by weaving, knitting, or felting fibers.
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for lookup:
+No such word in dictionary!
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+absolve (verb) To free from guilt or blame or their consequences. [2]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [3]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [4]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [5]
+aperiodic (adjective) Not periodic; irregular. [6]
+apex (noun) The tip, point, or vertex; summit. [7]
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [8]
+apply (verb) To make use of as relevant, suitable, or pertinent. [9]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+ban (verb) To prohibit, forbid, or bar; interdict. [1]
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [2]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [3]
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [4]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [5]
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [6]
+born (adjective) Brought forth by birth. [7]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+camp (verb) To live temporarily in or as if in a camp or outdoors, usually for recreation (often followed by out). [1]
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [2]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [3]
+cat (noun) A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties. [4]
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [5]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [6]
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [7]
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [8]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [9]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+dad (noun) A person's father or one's father. [1]
+dance (verb) To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music. [2]
+dart (noun) A small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon. [3]
+duck (noun) Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body. [4]
+duct (noun) Any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed. [5]
+dusk (noun) The state or period of partial darkness between day and night; the dark part of twilight. [6]
+dust (noun) Earth or other matter in fine, dry particles. [7]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+eager (adjective) Keen or ardent in desire or feeling; impatiently longing. [1]
+ease (noun) Freedom from labor, pain, or physical annoyance; tranquil rest; comfort. [2]
+epic (adjective) Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style. [3]
+episode (noun) An incident in the course of a series of events, in a person's life or experience, etc. [4]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+fabric (noun) A cloth made by weaving, knitting, or felting fibers. [1]
+feasible (adjective) Capable of being done, effected, or accomplished. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+game (noun) An amusement or pastime. [1]
+green (adjective) Of the color of growing foliage, between yellow and blue in the spectrum. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+absolve (verb) To free from guilt or blame or their consequences. [2]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [3]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [4]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [5]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+aperiodic (adjective) Not periodic; irregular. [1]
+apex (noun) The tip, point, or vertex; summit. [2]
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [3]
+apply (verb) To make use of as relevant, suitable, or pertinent. [4]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+ban (verb) To prohibit, forbid, or bar; interdict. [1]
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [2]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [3]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [1]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [2]
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [3]
+born (adjective) Brought forth by birth. [4]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+camp (verb) To live temporarily in or as if in a camp or outdoors, usually for recreation (often followed by out). [1]
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [2]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [3]
+cat (noun) A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties. [4]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [1]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [2]
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [3]
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [4]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [5]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+dad (noun) A person's father or one's father. [1]
+dance (verb) To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music. [2]
+dart (noun) A small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon. [3]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+duck (noun) Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body. [1]
+duct (noun) Any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed. [2]
+dusk (noun) The state or period of partial darkness between day and night; the dark part of twilight. [3]
+dust (noun) Earth or other matter in fine, dry particles. [4]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+eager (adjective) Keen or ardent in desire or feeling; impatiently longing. [1]
+ease (noun) Freedom from labor, pain, or physical annoyance; tranquil rest; comfort. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+epic (adjective) Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style. [1]
+episode (noun) An incident in the course of a series of events, in a person's life or experience, etc. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+absolve (verb) To free from guilt or blame or their consequences. [2]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [3]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [4]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [5]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+aperiodic (adjective) Not periodic; irregular. [1]
+apex (noun) The tip, point, or vertex; summit. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [1]
+apply (verb) To make use of as relevant, suitable, or pertinent. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+absolve (verb) To free from guilt or blame or their consequences. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [1]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+absolve (verb) To free from guilt or blame or their consequences. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [1]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [1]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [1]
+born (adjective) Brought forth by birth. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [1]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [1]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [1]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [1]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [2]
+
+
+
+
+CURRENT FILTER: 
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter word type filter (directly press enter for empty filter):
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apex (noun) The tip, point, or vertex; summit. [1]
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [1]
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [2]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [3]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [1]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [2]
+cat (noun) A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties. [3]
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [4]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [5]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [6]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+dad (noun) A person's father or one's father. [1]
+dart (noun) A small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon. [2]
+duck (noun) Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body. [3]
+duct (noun) Any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed. [4]
+dusk (noun) The state or period of partial darkness between day and night; the dark part of twilight. [5]
+dust (noun) Earth or other matter in fine, dry particles. [6]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+ease (noun) Freedom from labor, pain, or physical annoyance; tranquil rest; comfort. [1]
+episode (noun) An incident in the course of a series of events, in a person's life or experience, etc. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+fabric (noun) A cloth made by weaving, knitting, or felting fibers. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+game (noun) An amusement or pastime. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apex (noun) The tip, point, or vertex; summit. [1]
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [1]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [1]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [2]
+cat (noun) A small domesticated carnivore, Felis domestica or F. catus, bred in a number of varieties. [3]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [1]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [2]
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [3]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+dad (noun) A person's father or one's father. [1]
+dart (noun) A small, slender missile that is pointed at one end and usually feathered at the other and is propelled by hand, as in the game of darts, or by a blowgun when used as a weapon. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+duck (noun) Any of numerous wild or domesticated web-footed swimming birds of the family Anatidae, especially of the genus Anas and allied genera, characterized by abroad, flat bill, short legs, and depressed body. [1]
+duct (noun) Any tube, canal, pipe, or conduit by which a fluid, air, or other substance is conducted or conveyed. [2]
+dusk (noun) The state or period of partial darkness between day and night; the dark part of twilight. [3]
+dust (noun) Earth or other matter in fine, dry particles. [4]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+ease (noun) Freedom from labor, pain, or physical annoyance; tranquil rest; comfort. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+episode (noun) An incident in the course of a series of events, in a person's life or experience, etc. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apex (noun) The tip, point, or vertex; summit. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apple (noun) The usually round, red or yellow, edible fruit of a small tree, Malus sylvestris, of the rose family. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+bat (noun) The wooden club used in certain games, as baseball and cricket, to strike the ball. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+book (noun) A handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. [1]
+boot (noun) A covering of leather, rubber, or the like, for the foot and all or part of the leg. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+capital (noun) The city or town that is the official seat of government in a country, state, etc. [1]
+capsule (noun) A gelatinous case enclosing a dose of medicine. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+claw (noun) A sharp, usually curved, nail on the foot of an animal, as on a cat, dog, or bird. [1]
+clay (noun) A natural earthy material that is plastic when wet, consisting essentially of hydrated silicates of aluminum: used for making bricks, pottery, etc. [2]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+cloth (noun) A fabric formed by weaving, felting, etc., from wool, hair, silk, flax, cotton, or other fiber, used for garments, upholstery, and many other items. [1]
+
+
+
+
+CURRENT FILTER: noun
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter word type filter (directly press enter for empty filter):
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolve (verb) To free from guilt or blame or their consequences. [1]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [2]
+apply (verb) To make use of as relevant, suitable, or pertinent. [3]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+ban (verb) To prohibit, forbid, or bar; interdict. [1]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [2]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+camp (verb) To live temporarily in or as if in a camp or outdoors, usually for recreation (often followed by out). [1]
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [2]
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [3]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+dance (verb) To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolve (verb) To free from guilt or blame or their consequences. [1]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [2]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apply (verb) To make use of as relevant, suitable, or pertinent. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+ban (verb) To prohibit, forbid, or bar; interdict. [1]
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [2]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+camp (verb) To live temporarily in or as if in a camp or outdoors, usually for recreation (often followed by out). [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [1]
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [2]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+dance (verb) To move one's feet or body, or both, rhythmically in a pattern of steps, especially to the accompaniment of music. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolve (verb) To free from guilt or blame or their consequences. [1]
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [2]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+apply (verb) To make use of as relevant, suitable, or pertinent. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolve (verb) To free from guilt or blame or their consequences. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+abstain (verb) to hold oneself back voluntarily, especially from something regarded as improper or unhealthy (usually followed by from). [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolve (verb) To free from guilt or blame or their consequences. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+bathe (verb) To immerse (all or part of the body) in water or some other liquid, for cleansing, refreshment, etc. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+climb (verb) To go up or ascend, especially by using the hands and feet or feet only. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+clog (verb) To hinder or obstruct with thick or sticky matter; choke up. [1]
+
+
+
+
+CURRENT FILTER: verb
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter word type filter (directly press enter for empty filter):
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [2]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [3]
+aperiodic (adjective) Not periodic; irregular. [4]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [1]
+born (adjective) Brought forth by birth. [2]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+eager (adjective) Keen or ardent in desire or feeling; impatiently longing. [1]
+epic (adjective) Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style. [2]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+feasible (adjective) Capable of being done, effected, or accomplished. [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+green (adjective) Of the color of growing foliage, between yellow and blue in the spectrum. [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [2]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [3]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+aperiodic (adjective) Not periodic; irregular. [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [1]
+born (adjective) Brought forth by birth. [2]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+eager (adjective) Keen or ardent in desire or feeling; impatiently longing. [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+epic (adjective) Noting or pertaining to a long poetic composition, usually centered upon a hero, in which a series of great achievements or events is narrated in elevated style. [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [2]
+absurd (adjective) Utterly or obviously senseless, illogical, or untrue; contrary to all reason or common sense; laughably foolish or false [3]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+aperiodic (adjective) Not periodic; irregular. [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+abstract (adjective) Thought of apart from concrete realities, specific objects, or actual instances. [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+absolute (adjective) Free from imperfection; complete; perfect: [1]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+boring (adjective) Causing or marked by boredom; dull and uninteresting; tiresome. [1]
+born (adjective) Brought forth by birth. [2]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Enter text for suggestion:
+Found words:
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Words in dictionary:
+fgxtqzyj [1]
+fgxtqaj [2]
+fgxyfns [3]
+fgxywfhy [4]
+fgxzwi [5]
+fujwntinh [6]
+fujc [7]
+fuuqj [8]
+fuuqd [9]
+gfs [10]
+gfy [11]
+gfymj [12]
+gttp [13]
+gtty [14]
+gtwnsl [15]
+gtws [16]
+hfru [17]
+hfunyfq [18]
+hfuxzqj [19]
+hfy [20]
+hqfb [21]
+hqfd [22]
+hqnrg [23]
+hqtl [24]
+hqtym [25]
+ifi [26]
+ifshj [27]
+ifwy [28]
+izhp [29]
+izhy [30]
+izxp [31]
+izxy [32]
+jfljw [33]
+jfxj [34]
+junh [35]
+junxtij [36]
+kfgwnh [37]
+kjfxngqj [38]
+lfrj [39]
+lwjjs [40]
+mtzxj [41]
+nhj [42]
+ofij [43]
+pjju [44]
+qfgjq [45]
+rfhmnsj [46]
+szrgjw [47]
+tgjd [48]
+ufhp [49]
+vzny [50]
+wfhj [51]
+xthp [52]
+ymnsp [53]
+zrgwjqqf [54]
+afhfsy [55]
+bfny [56]
+cdqtumtsj [57]
+djxyjwifd [58]
+ett [59]
+
+
+
+
+CURRENT FILTER: adjective
+The following commands are available for using dictionary:
+'lookup' to lookup for a specific word in dictionary
+'suggest' to find all words starting with the given word
+'encrypt' prints out all words encrypted by Caesar cipher with shift 5
+'setfilter' set the filter of word type
+'end' Stop searching this dictionary
+Going back to main routine:
+
