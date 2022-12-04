@@ -14,5 +14,5 @@ PA9: 93.65 + 9 mean: 68.1 + 3.2
 PA10: 94 mean: 91.78  
 PA11: 100 mean: 83.35  
 
-As you can see, my scores are dropping QwQ 
-Good lck on my final
+As you can see, my scores are dropping QwQ  
+Good luck on my final
