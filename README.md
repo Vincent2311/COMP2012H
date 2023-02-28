@@ -1,4 +1,4 @@
-# COMP 2012H
+# COMP 2012H FALL 2022
 Finally finished all assignments QwQ
 
 scores:  
@@ -20,10 +20,7 @@ Good luck on my final
 
 Update: the final consists of around 40 pages...Me got a little bit above the Upper Quartile. Final grade A.
 
-Holy shit.
-
 Don't trust the mean of the PAs... After checking I found most of the PAs have a meadian of 100...
 
-Holy shit.
-
 Gary is stricter than Desmond.
+
